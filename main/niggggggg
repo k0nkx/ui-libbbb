@@ -3652,3 +3652,4 @@ function Library.tabs:PlayerList(options)
     self.Properties.Right.Position = UDim2.new(1,-7,0,365)
     return PlayerList
 end
+return Library
